@@ -1,0 +1,13 @@
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\bin\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.exe
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\bin\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.deps.json
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\bin\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.runtimeconfig.json
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\bin\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.runtimeconfig.dev.json
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\bin\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.dll
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\bin\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.pdb
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.csprojAssemblyReference.cache
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.AssemblyInfoInputs.cache
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.AssemblyInfo.cs
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.dll
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.pdb
+C:\Users\rdalm\OneDrive\Documentos\Trabalhos\SENAI\C#\MetodoeAtributosEstaticos\obj\Debug\netcoreapp3.1\MetodoeAtributosEstaticos.genruntimeconfig.cache
